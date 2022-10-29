@@ -1,3 +1,5 @@
+
+#InvertedHollowPyramid
 n-int(input())
 
 t-n+(n-1)
