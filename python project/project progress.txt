@@ -1,0 +1,31 @@
+project name : Student DataBase Management System (SDBMS)
+backend : MYSQL 
+
+created class studentdetail  10-11-2022 
+created function to take inputs of student   10-11-2022 
+created function to retrive the student details by roll number  10-11-2022 
+created function to retrive the student details by student id number  10-11-2022 
+created function to retrive the student details by name from data sql server  10-11-2022 
+created function to retrive the students details according to the interest   10-11-2022 
+created function to retrive the studnets details according to the limt   10-11-2022 
+created function to retrive the students details according to the fail catogery  10-11-2022 
+created function to retrive the students details according to the top   10-11-2022 
+created function to retrive the all students details from the database   10-11-2022 
+created a utility function to print the student details according to the contraints  10-11-2022 
+created a utility function to print the student details according to the marks  10-11-2022 
+created function to delete a student by the name as constraint and prints the data of teh deleted student  10-11-2022 
+created function to delete all students by the conformation icon  11-11-2022
+created function to export the data base to xls file and prints the file path to check the file  11-11-2022
+ host="enter your data base host",
+    user="enter your user name in my sql",
+    password="enter your password of sql workbench server",
+    database="enter your data base "
+    #create a table as studentdetail in database
+    #import the given csv file or data.xls file to studentdetail table
+    #click here to know how to import csv or xls file to database 
+    #make sure that columns names are same as given in the bellow tuple
+    #aur,studentname,roll,email,codechef,marks,state,interest
+    #create same columns 
+    https://www.sqlshack.com/importing-and-working-with-csv-files-in-sql-server/
+    https://blog.skyvia.com/3-easy-ways-to-import-csv-file-to-sql-server/
+    https://www.c-sharpcorner.com/article/import-csv-file-into-sql-server-using-sql-server-management-studio/ 
