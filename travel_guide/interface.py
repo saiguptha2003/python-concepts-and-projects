@@ -5,6 +5,7 @@ def display():
     print("2.Exit")
 display()
 comp=m.com()
+print("enter the choice:",end="")
 choice=int(input())
 match choice:
      case 1:
