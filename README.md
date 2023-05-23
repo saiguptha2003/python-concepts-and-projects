@@ -89,3 +89,27 @@ def lcm(x,y):
         greater+=1
     return lcm
 ```
+<h4>9.Code to reverse a string using reversed function</h4>
+
+```python
+str=""
+for i in reversed("pandusai"):
+    str=str+i
+print(str)
+```
+
+<h4>10.Useful Methods to perform maths functions</h4>
+
+```python
+import math as m
+print(m.factorial(5))
+print(m.gcd(4,6))
+print(m.sqrt(9))
+print(m.isqrt(4))
+print(m.lcm(4,6))
+print(m.pow(4,2))
+l=[1,2,3,4,5,6,7,8,9]
+print(m.fsum(l))
+print(m.prod(l))
+```
+
