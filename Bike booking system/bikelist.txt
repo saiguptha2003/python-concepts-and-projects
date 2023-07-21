@@ -1,0 +1,1 @@
+Economy Class(800/day),Sport Class(3000/day),Commerial Class(5000/day),Emergency Class(400/hr)
